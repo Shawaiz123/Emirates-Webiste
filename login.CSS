@@ -1,0 +1,74 @@
+body{
+    text-align: center;
+    font-family: 'Sans', sans-serif;
+    background-color: #f6f6f6;
+}
+#h11login{
+    font-size: 40px;
+}
+#p1login{
+    font-size: 25px;
+}
+input{
+    width: 300px;
+    height: 50px;
+}
+#inputcheckboxlogin1{
+    width: 15px;
+    height: 15px;
+}
+#buttonlogin1{
+    width: 300px;
+    height: 40px;
+    background-color: #d71921;
+}
+#p2login{
+    color: #d71921;
+}
+#p3login{
+    color: #d71921;
+}
+button{
+    font-family: 'Sans', sans-serif;
+}
+#buttonlogin2{
+    width: 200px;
+    height: 40px;
+}
+li{
+    display: inline-block;
+}
+#divli1login{
+    text-align: center;
+    margin-left: 60px;
+}
+#h31login{
+    text-align: left;
+}
+#formlogin1{
+    padding-right: 60px;
+    border-right: 1px solid black;
+}
+header{
+    background-color: #333333;
+    height: 70px;
+    color: white;
+}
+#img1login{
+    width: 150px;
+    margin-right: 1000px;
+}
+input{
+    border-radius: 3px;
+}
+button{
+    border-radius: 4px;
+}
+#divLogin1{
+    width: 675px;
+    text-align: center;
+    margin-left: 600px;
+}
+#divlogin2{
+    margin-left: 150px;
+}

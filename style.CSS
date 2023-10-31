@@ -1,0 +1,107 @@
+body{
+    font-family: 'Sans', sans-serif;
+    background-color: #f6f6f6;
+
+}
+#img1{
+    width: 150px;
+}
+li{
+    display: inline-block;
+    padding-right:10px;
+}
+#icon{
+    margin-left:900px;
+}
+header{
+    background-color: #333333;
+    height: 70px;
+    color: white;
+}
+#p2{
+    font-size: 25px;
+}
+#h11{
+    font-size: 40px;
+}
+#div1{
+    text-align: center;
+    width: 600px;
+    padding: 20px;
+    margin-left: 600px;
+}
+#p3{
+    color: #d71921;
+    margin-left: 20px;
+    padding: 5px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+input{
+    border-radius: 3px;
+    width: 275px;
+    height: 50px;
+    font-size: 20px;
+    padding: 5px;
+    margin-left: 20px;
+}
+#class{
+    border-radius: 3px;
+    width: 275px;
+    height: 55px;
+    font-size: 20px;
+    padding: 5px;
+    margin-left: 20px;
+}
+#div2{
+    background-color: white;
+    border-radius: 4px;
+    width: 1125px;
+    margin-left: 400px;
+}
+#departureinput{
+    width: 135px;
+    font-size: 18px;
+}
+#arrivalinput{
+    width: 135px;
+    font-size: 18px;
+}
+#buttonsearchflights{
+    background-color: #d81c24;
+    border-radius: 3px;
+    width: 275px;
+    height: 50px;
+    font-size: 19px;
+    color: white;
+    padding: 5px;
+    margin-left: 140px;
+}
+#div3{
+    width: 1125px;
+    margin-left: 400px;
+    background-color: white;
+
+}
+#h31{
+    margin-left: 20px;
+    padding: 5px;
+}
+#h41{
+    margin-left: 20px;
+    padding: 5px;
+}
+#p4{
+    margin-left: 20px;
+    padding: 5px;
+}
+#h42{
+    margin-left: 20px;
+    padding: 5px;
+}
+#p5{
+    margin-left: 20px;
+    padding: 5px;
+}
